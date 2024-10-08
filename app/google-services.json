@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585244097895",
+    "firebase_url": "https://cloud-study-74c77-default-rtdb.firebaseio.com",
+    "project_id": "cloud-study-74c77",
+    "storage_bucket": "cloud-study-74c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585244097895:android:62dc06175de76363e803c2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585244097895-fg0gvoaf7bop6dq4nqs738627e8i09e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl7nzhD1e8d8539GWXqcB3_lo1z_CU-O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585244097895-fg0gvoaf7bop6dq4nqs738627e8i09e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
